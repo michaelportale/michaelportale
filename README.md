@@ -6,9 +6,9 @@ I am interested in high-ownership software engineering, product engineering, AI,
 
 ## Selected work
 
-- [BetIt](https://github.com/michaelportale/BetitApp) — React Native social-betting mobile client with group workflows, ledgers, notifications, and payment-oriented screens.
+- BetIt (private repo) — Peer-to-peer betting app in React Native, TypeScript, Supabase, and Stripe Connect, with escrowed wagers, KYC, and multi-path bet resolution.
 - [Portfolio](https://github.com/michaelportale/michaelportale-website) — Personal portfolio site with project showcases and an in-browser Snake game.
-- [WorkoutTrainer](https://github.com/michaelportale/workouttrainer) — Flask web application for workout education, quizzes, and weekly training-plan creation.
+- [shiftlab](https://github.com/michaelportale/shiftlab) — Self-hosted replacement for Shift that supervises an iPhone from a Mac and enforces a schedule of blocked apps; a locked shift can't be ended early.
 
 ## Background
 
