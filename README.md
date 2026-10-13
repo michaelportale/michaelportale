@@ -7,7 +7,7 @@ I am interested in high-ownership software engineering, product engineering, AI,
 ## Selected work
 
 - [BetIt](https://github.com/michaelportale/BetitApp) — React Native social-betting mobile client with group workflows, ledgers, notifications, and payment-oriented screens.
-- [Portfolio](https://github.com/michaelportale/michaelportale.website.io) — Personal portfolio site with project showcases and an in-browser Snake game.
+- [Portfolio](https://github.com/michaelportale/michaelportale-website) — Personal portfolio site with project showcases and an in-browser Snake game.
 - [WorkoutTrainer](https://github.com/michaelportale/workouttrainer) — Flask web application for workout education, quizzes, and weekly training-plan creation.
 
 ## Background
